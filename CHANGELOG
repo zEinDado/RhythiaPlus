@@ -1,0 +1,44 @@
+# Rhythia+ Changelog
+
+All notable changes to Rhythia+ will be documented here.
+
+---
+
+## Upcoming
+
+### Added
+- Customizable hotkeys
+- German overlay language
+- Improved HUD functionality
+- Profile pictures inside Community Profiles
+
+### Changed
+- Settings layout redesign
+- Community interface improvements
+
+### Fixed
+- Various UI and stability improvements
+
+---
+
+## 2.6.7
+
+### Added
+- Rhythia+ Control Center
+- Map & Skin Library
+- Community browser for Maps, Profiles and Skins
+- Map and skin downloading with automatic import
+- Offline mode
+- Customizable HUD Overlay
+- Smart HUD Dodge
+- Multiple interface themes
+- Custom backgrounds
+- Accent color customization
+- Automatic Rhythia language detection
+- Animated Rhythia+ top-bar button
+- Steam integration
+
+### Removed
+- FLOW
+
+FLOW was removed because it could interfere with game input, cause the overlay to disappear and trigger taskbar flickering.
